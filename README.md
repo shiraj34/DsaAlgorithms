@@ -7,3 +7,4 @@ Once done! wait for the reviewer to review your code and accept your pull reques
 
 Happy hacktoberfest2022
  
+You can fork this repository and and then add the changes in it create a pull request and wait for the maintener to merge it
